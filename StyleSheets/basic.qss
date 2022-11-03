@@ -1,0 +1,8 @@
+QFrame#keyboard QPushButton{
+	border-radius: 10px;
+	border: 2px solid black;
+}
+QPushButton#keyboard_clr_btn{
+	border-radius: 10px;
+	border: 2px solid black;
+}

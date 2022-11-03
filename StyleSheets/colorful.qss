@@ -1,0 +1,25 @@
+QFrame#keyboard QPushButton[btn_type="other"]{
+background: #ddd;
+}
+
+QFrame#keyboard QPushButton[finger="pinkie"]{
+background: #ad7fa8;
+}
+
+QFrame#keyboard QPushButton[finger="ring"]{
+background: #729fcf;
+}
+
+QFrame#keyboard QPushButton[finger="mid"]{
+background: #73d216;
+}
+
+QFrame#keyboard QPushButton[hand="left"][finger="index"]{
+background: #fcaf3e;
+}
+
+QFrame#keyboard QPushButton[hand="right"][finger="index"]{
+background: #fce94f;
+}
+
+
